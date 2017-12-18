@@ -2,7 +2,7 @@ $(document).ready(function(){
     
         //Global Variables
         //----------------------------------------------------------
-        var topics = ['SNL', 'Modern Family', 'Saved By the Bell', 'The Office'];
+        var topics = ['Game of Thrones','SNL','Even Stevens', 'Modern Family', 'Saved By the Bell', 'The Office', 'Judge Judy', 'House of Cards','Seinfield'];
         var searchWord = [];
         
         //AJAX
